@@ -59,7 +59,7 @@ function App() {
             </div>
             <div className="relative">
               <div className="aspect-square rounded-full bg-gradient-to-tr from-primary/20 to-primary animate-pulse">
-                <img src="/dist/assets/logo.jpg" alt="image"></img>
+                <img src="https://pbs.twimg.com/profile_images/1880351121190920192/Mh55MDbT_400x400.jpg" alt="image"></img>
               </div>
             </div>
           </div>
