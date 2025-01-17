@@ -138,7 +138,7 @@ function App() {
               <span className="font-bold">CRYPTOVAULT</span>
             </div>
             <div className="text-sm text-muted-foreground">
-              © 2024 CRYPTOVAULT. All rights reserved.
+              © 2025 CRYPTOVAULT. All rights reserved.
             </div>
           </div>
         </div>
