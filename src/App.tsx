@@ -23,7 +23,7 @@ function App() {
               <span className="text-xl font-bold">CRYPTOVAULT</span>
             </div>
             <div className="hidden md:flex space-x-6">
-              {['Home', 'Mission', 'Technology', 'Community'].map((item) => (
+              {['Home', 'Mission', 'Community'].map((item) => (
                 <button
                   key={item}
                   onClick={() => setActiveSection(item.toLowerCase())}
@@ -35,7 +35,9 @@ function App() {
                 </button>
               ))}
             </div>
-            <Button variant="default">Join Presale</Button>
+            <a href="https://cryptovault.bond" target="_blank" rel="noopener noreferrer">
+              <Button variant="default">Invest in Coin</Button>
+            </a>
           </div>
         </div>
       </nav>
@@ -50,8 +52,9 @@ function App() {
                 CRYPTOVAULT: A revolutionary digital asset designed to preserve wealth in an era of fiat currency uncertainty. Your secure haven in the digital economy.
               </p>
               <div className="flex space-x-4">
-                <Button size="lg">Learn More</Button>
-                <Button size="lg" variant="outline">Whitepaper</Button>
+              <a href="https://cryptovault.bond" target="_blank" rel="noopener noreferrer">
+              <Button variant="default">Invest in Coin</Button>
+            </a>
               </div>
             </div>
             <div className="relative">
@@ -97,7 +100,7 @@ function App() {
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-2">
-                <AccordionTrigger>What makes CRYPTOVAULT different from traditional cryptocurrencies?</AccordionTrigger>
+                <AccordionTrigger>What makes $VAULT different from traditional cryptocurrencies?</AccordionTrigger>
                 <AccordionContent>
                   Unlike volatile cryptocurrencies or traditional stablecoins, CRYPTOVAULT is designed as a true store of value, backed by real-world assets and maintained through advanced economic models that ensure long-term stability.
                 </AccordionContent>
@@ -121,18 +124,6 @@ function App() {
             <Button variant="outline" size="lg" className="space-x-2">
               <Twitter className="h-5 w-5" />
               <span>Twitter</span>
-            </Button>
-            <Button variant="outline" size="lg" className="space-x-2">
-              <Discord className="h-5 w-5" />
-              <span>Discord</span>
-            </Button>
-            <Button variant="outline" size="lg" className="space-x-2">
-              <Telegram className="h-5 w-5" />
-              <span>Telegram</span>
-            </Button>
-            <Button variant="outline" size="lg" className="space-x-2">
-              <Github className="h-5 w-5" />
-              <span>GitHub</span>
             </Button>
           </div>
         </div>
