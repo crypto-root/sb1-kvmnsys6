@@ -58,7 +58,9 @@ function App() {
               </div>
             </div>
             <div className="relative">
-              <div className="aspect-square rounded-full bg-gradient-to-tr from-primary/20 to-primary animate-pulse"></div>
+              <div className="aspect-square rounded-full bg-gradient-to-tr from-primary/20 to-primary animate-pulse">
+              <img src="/assets/logo.jpg" alt="image"></img>
+              </div>
             </div>
           </div>
         </div>
