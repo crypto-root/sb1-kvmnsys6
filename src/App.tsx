@@ -35,7 +35,7 @@ function App() {
                 </button>
               ))}
             </div>
-            <a href="https://pump.fun/coin/6DzyqGY6jKDvir2Jf1sE2qB7FD9Wj37QkMeeVqJBpump" target="_blank" rel="noopener noreferrer">
+            <a href="https://pump.fun/coin/5WRq691QnzPGmZqLmmMzeQNgQeMKYYsKt4UM5YdMpump" target="_blank" rel="noopener noreferrer">
               <Button variant="default">Invest in Coin</Button>
             </a>
           </div>
@@ -52,7 +52,7 @@ function App() {
                 $VAULT: A revolutionary digital asset designed to preserve wealth in an era of fiat currency uncertainty. Your secure haven in the digital economy.
               </p>
               <div className="flex space-x-4">
-              <a href="https://pump.fun/coin/6DzyqGY6jKDvir2Jf1sE2qB7FD9Wj37QkMeeVqJBpump" target="_blank" rel="noopener noreferrer">
+              <a href="https://pump.fun/coin/5WRq691QnzPGmZqLmmMzeQNgQeMKYYsKt4UM5YdMpump" target="_blank" rel="noopener noreferrer">
               <Button variant="default">Invest in Coin</Button>
             </a>
               </div>
