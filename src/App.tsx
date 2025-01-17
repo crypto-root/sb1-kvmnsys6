@@ -35,7 +35,7 @@ function App() {
                 </button>
               ))}
             </div>
-            <a href="https://$VAULT.bond" target="_blank" rel="noopener noreferrer">
+            <a href="https://pump.fun/coin/6DzyqGY6jKDvir2Jf1sE2qB7FD9Wj37QkMeeVqJBpump" target="_blank" rel="noopener noreferrer">
               <Button variant="default">Invest in Coin</Button>
             </a>
           </div>
@@ -52,7 +52,7 @@ function App() {
                 $VAULT: A revolutionary digital asset designed to preserve wealth in an era of fiat currency uncertainty. Your secure haven in the digital economy.
               </p>
               <div className="flex space-x-4">
-              <a href="https://$VAULT.bond" target="_blank" rel="noopener noreferrer">
+              <a href="https://pump.fun/coin/6DzyqGY6jKDvir2Jf1sE2qB7FD9Wj37QkMeeVqJBpump" target="_blank" rel="noopener noreferrer">
               <Button variant="default">Invest in Coin</Button>
             </a>
               </div>
@@ -123,7 +123,7 @@ function App() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold mb-8 text-center">Join Our Community</h2>
           <div className="flex justify-center space-x-6">
-          <a href="https://x.com/$VAULTHODL" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/cryptovaulthodl" target="_blank" rel="noopener noreferrer">
             <Button variant="outline" size="lg" className="space-x-2">
               <span>Twitter</span>
             </Button>
