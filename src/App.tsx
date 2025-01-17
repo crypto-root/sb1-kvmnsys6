@@ -20,7 +20,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Coins className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold">CRYPTOVAULT</span>
+              <span className="text-xl font-bold">$VAULT</span>
             </div>
             <div className="hidden md:flex space-x-6">
               {['Home', 'Mission', 'Community'].map((item) => (
@@ -35,7 +35,7 @@ function App() {
                 </button>
               ))}
             </div>
-            <a href="https://cryptovault.bond" target="_blank" rel="noopener noreferrer">
+            <a href="https://$VAULT.bond" target="_blank" rel="noopener noreferrer">
               <Button variant="default">Invest in Coin</Button>
             </a>
           </div>
@@ -49,10 +49,10 @@ function App() {
             <div>
               <h1 className="text-5xl font-bold mb-6">Your Digital Fortress Against Inflation</h1>
               <p className="text-xl text-muted-foreground mb-8">
-                CRYPTOVAULT: A revolutionary digital asset designed to preserve wealth in an era of fiat currency uncertainty. Your secure haven in the digital economy.
+                $VAULT: A revolutionary digital asset designed to preserve wealth in an era of fiat currency uncertainty. Your secure haven in the digital economy.
               </p>
               <div className="flex space-x-4">
-              <a href="https://cryptovault.bond" target="_blank" rel="noopener noreferrer">
+              <a href="https://$VAULT.bond" target="_blank" rel="noopener noreferrer">
               <Button variant="default">Invest in Coin</Button>
             </a>
               </div>
@@ -94,21 +94,21 @@ function App() {
           <div className="max-w-2xl mx-auto">
             <Accordion type="single" collapsible>
               <AccordionItem value="item-1">
-                <AccordionTrigger>How does CRYPTOVAULT protect against inflation?</AccordionTrigger>
+                <AccordionTrigger>How does $VAULT protect against inflation?</AccordionTrigger>
                 <AccordionContent>
-                  CRYPTOVAULT maintains its value through a unique combination of precious metal backing, algorithmic stability mechanisms, and strategic asset reserves, providing a robust hedge against fiat currency depreciation.
+                  $VAULT maintains its value through a unique combination of precious metal backing, algorithmic stability mechanisms, and strategic asset reserves, providing a robust hedge against fiat currency depreciation.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-2">
                 <AccordionTrigger>What makes $VAULT different from traditional cryptocurrencies?</AccordionTrigger>
                 <AccordionContent>
-                  Unlike volatile cryptocurrencies or traditional stablecoins, CRYPTOVAULT is designed as a true store of value, backed by real-world assets and maintained through advanced economic models that ensure long-term stability.
+                  Unlike volatile cryptocurrencies or traditional stablecoins, $VAULT is designed as a true store of value, backed by real-world assets and maintained through advanced economic models that ensure long-term stability.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-3">
-                <AccordionTrigger>How can I participate in the CRYPTOVAULT ecosystem?</AccordionTrigger>
+                <AccordionTrigger>How can I participate in the $VAULT ecosystem?</AccordionTrigger>
                 <AccordionContent>
-                  Join our presale to become an early adopter and participate in governance decisions. CRYPTOVAULT holders can vote on key decisions and benefit from our stability rewards program.
+                  Join our presale to become an early adopter and participate in governance decisions. $VAULT holders can vote on key decisions and benefit from our stability rewards program.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
@@ -121,7 +121,7 @@ function App() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold mb-8 text-center">Join Our Community</h2>
           <div className="flex justify-center space-x-6">
-          <a href="https://x.com/CryptoVaultHODL" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/$VAULTHODL" target="_blank" rel="noopener noreferrer">
             <Button variant="outline" size="lg" className="space-x-2">
               <span>Twitter</span>
             </Button>
@@ -136,10 +136,10 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <Coins className="h-6 w-6 text-primary" />
-              <span className="font-bold">CRYPTOVAULT</span>
+              <span className="font-bold">$VAULT</span>
             </div>
             <div className="text-sm text-muted-foreground">
-              © 2025 CRYPTOVAULT. All rights reserved.
+              © 2025 $VAULT. All rights reserved.
             </div>
           </div>
         </div>
