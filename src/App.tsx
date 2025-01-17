@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Coins, Globe, Users, Shield, Twitter, Disc as Discord, Instagram as Telegram, Github } from 'lucide-react';
+import { Coins, Globe, Users, Shield } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import {
@@ -121,10 +121,11 @@ function App() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold mb-8 text-center">Join Our Community</h2>
           <div className="flex justify-center space-x-6">
+          <a href="https://x.com/CryptoVaultHODL" target="_blank" rel="noopener noreferrer">
             <Button variant="outline" size="lg" className="space-x-2">
-              <Twitter className="h-5 w-5" />
               <span>Twitter</span>
             </Button>
+            </a>
           </div>
         </div>
       </section>
